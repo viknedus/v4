@@ -105,6 +105,9 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
+        <a href="https://github.com/viknedus">
+          <div>Revised by Victor Nwachukwu</div>{' '}
+        </a>
         <a href="https://github.com/bchiang7/v4">
           <div>Designed &amp; Built by Brittany Chiang</div>
 
