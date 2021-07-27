@@ -16,11 +16,11 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/victor_nwachukwu',
+      url: 'https://www.linkedin.com/in/victor-nwachukwu',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/viknedus',
     },
   ],
 
