@@ -1,10 +1,10 @@
 ---
 date: '2020-04-19'
 title: 'WhatsApp V2(ish)'
-cover: './demo.png'
+cover:
 github: 'https://github.com/viknedus/WhatsApp-v2ish'
-ios: '-'
-android: '-'
+ios: '#'
+android: '#'
 external: 'https://whats-app-v2ish.vercel.app/'
 tech:
   - Next.js
